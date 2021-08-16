@@ -3,7 +3,7 @@
 This exercise is about client communication and planning. You'll learn to use new design tools, plan your work to save development time (though there won't be any coding on this project), and communicate user stories through UML diagrams.
 
 ## Learning Objectives
-- [ ] Define the client’s needs
+- [x] Define the client’s needs
 - [ ] Scope the project
 - [ ] Define User functionalities (login, logout, delete, ...)
 - [ ] Prepare a UML diagram (for both navigations and actions)
