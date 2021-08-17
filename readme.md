@@ -27,3 +27,7 @@ OlaFresco needs a website for meal orders
 - Member profile allow to specify user allergies that automatically filter meals
 
 This website will look a lot like [hellofresh](https://hellofresh.com/)
+
+
+#### Mind mapping
+[https://atlas.mindmup.com/2021/08/046d5d60ff4311ebaa70972426e9839c/client_project_map/index.html](https://atlas.mindmup.com/2021/08/046d5d60ff4311ebaa70972426e9839c/client_project_map/index.html)
