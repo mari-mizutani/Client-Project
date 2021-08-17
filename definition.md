@@ -18,7 +18,18 @@ The client wants to create a landing page explains their meal kit delivery servi
 
 - Website development: www.olafresco.com 
 - Good quality tablet, mobile, and desktop responsiveness
-- The home page should be minimal in design and deliver a good user experience. Only 4 tabs on the home page (placed on top of the page): About us, How it works, Plans, Menus.
+- The home page should be minimal in design and deliver a good user experience. Only 3 tabs on the home page (placed on top of the page): About us, How it works, Menus and Plans.
+
+
+### User functionalities
+- Log in (Email, password)
+- Sign up (Email, password)
+- Error and reset
+- Choose plans
+- Register plans
+- Shipping info confirmation
+- Payment info apply
+- Checkout
 
 ## Project Objectives
 - Develop a website for OlaFresco in one month- launch date 25 September- with a total budget of €3,000.

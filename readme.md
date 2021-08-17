@@ -5,7 +5,7 @@ This exercise is about client communication and planning. You'll learn to use ne
 ## Learning Objectives
 - [x] Define the client’s needs
 - [x] Scope the project
-- [ ] Define User functionalities (login, logout, delete, ...)
+- [x] Define User functionalities (login, logout, delete, ...)
 - [ ] Prepare a UML diagram (for both navigations and actions)
 - [ ] Prepare a wireframe of the website with for example balsamiq
 - [ ] Prepare a mockup of the website using a design tool such as Figma
