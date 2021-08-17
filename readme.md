@@ -30,4 +30,5 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 
 
 #### Mind mapping
-[https://atlas.mindmup.com/2021/08/046d5d60ff4311ebaa70972426e9839c/client_project_map/index.html](https://atlas.mindmup.com/2021/08/046d5d60ff4311ebaa70972426e9839c/client_project_map/index.html)
+[https://atlas.mindmup.com/2021/08/415b6a40ff6211eb8342f760a4bc616a/olafresco_website_landing_page/index.html](https://atlas.mindmup.com/2021/08/415b6a40ff6211eb8342f760a4bc616a/olafresco_website_landing_page/index.html)
+* the link will work only for 6 months from the published date
