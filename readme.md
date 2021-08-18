@@ -34,4 +34,4 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 * the link will work only for 6 months from the published date
 
 #### Desktop mockup
-[https://www.figma.com/community/file/1009840625539223966/Client-project-landing-page](https://www.figma.com/community/file/1009840625539223966/Client-project-landing-page)
+[https://www.figma.com/proto/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=4%3A3&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=4%3A3&scaling=min-zoom&page-id=0%3A1)
