@@ -35,3 +35,5 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 
 #### Desktop mockup
 [https://www.figma.com/proto/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=4%3A3&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=4%3A3&scaling=min-zoom&page-id=0%3A1)
+
+![Screenshot](Screenshot.png)
