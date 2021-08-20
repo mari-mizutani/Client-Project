@@ -8,7 +8,7 @@ This exercise is about client communication and planning. You'll learn to use ne
 - [x] Define User functionalities (login, logout, delete, ...)
 - [ ] Prepare a UML diagram (for both navigations and actions)
 - [x] Prepare a wireframe of the website with for example balsamiq (Only top page)
-- [x] Prepare a mockup of the website using a design tool such as Figma  (Only top page for desktop)
+- [x] Prepare a mockup of the website using a design tool such as Figma  (Only top page)
 - [x] Communicate the endresult with the client
 - [x] Add a quality readme
 
@@ -30,7 +30,7 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 
 
 #### Landing page mockup
-[https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1](https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1)
+[view on figma](https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1)
 
 ![responsive1](img/responsive1.png)
 ![responsive2](img/responsive2.jpg)
