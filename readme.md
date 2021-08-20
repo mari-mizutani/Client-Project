@@ -28,6 +28,10 @@ OlaFresco needs a website for meal orders
 
 This website will look a lot like [hellofresh](https://hellofresh.com/)
 
+## What I learned from this exercise
+Though I'v worked as a graphic designer, this was my first time to use Figma. I found it is a quite interesting tool for web development. Since you can make the design with grid system, and check the prototype on screen. It might be not really required as a web developer, but I would keep learning how to use Figma more. Because I believe it would be also an advantage if I want to work as a freelancer or work at a small company in the future.
+Also, going through all the process by myself was good to know how the whole project flow is going.
+
 
 #### Landing page mockup
 [view on figma](https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1)
