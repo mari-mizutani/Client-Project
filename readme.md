@@ -32,5 +32,5 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 #### Landing page mockup
 [https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1](https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1)
 
-![responsive1](responsive1.png)
-![responsive2](responsive2.jpg)
+![responsive1](img/responsive1.png)
+![responsive2](img/responsive2.jpg)
