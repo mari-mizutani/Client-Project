@@ -33,7 +33,8 @@ This website will look a lot like [hellofresh](https://hellofresh.com/)
 [https://atlas.mindmup.com/2021/08/415b6a40ff6211eb8342f760a4bc616a/olafresco_website_landing_page/index.html](https://atlas.mindmup.com/2021/08/415b6a40ff6211eb8342f760a4bc616a/olafresco_website_landing_page/index.html)
 * the link will work only for 6 months from the published date
 
-#### Desktop mockup
-[https://www.figma.com/proto/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=4%3A3&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=4%3A3&scaling=min-zoom&page-id=0%3A1)
+#### Landing page mockup
+[https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1](https://www.figma.com/file/wk8esGpvP94ICku5OFuBPn/Client-project?node-id=0%3A1)
 
-![Screenshot](Screenshot.png)
+![responsive1](responsive1.png)
+![responsive2](responsive2.jpg)
